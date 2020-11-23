@@ -1,0 +1,183 @@
+#######################------------------------#################
+ALL FIBER OPTICS DRAWINGS OUTPUT:
+#######################------------------------#################
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-102  
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         2                 90
+1inch            2                 92
+              Quantity  total Length(ft.)
+12 conductor         6                270
+4 strand smf         2                 92
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-103 
+207TH STREET STATION
+######################
+
+       Quantity  total length(ft.)
+1inch         6                 89
+              Quantity  total Length(ft.)
+12 conductor        12                192
+4 strand smf         4                 45
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-104 
+207TH STREET STATION
+######################
+
+       Quantity  total length(ft.)
+1inch         3                 80
+                       Quantity  total Length(ft.)
+duplex smf patch cord         6                160
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-202 
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+       Quantity  total length(ft.)
+1inch         2                 38
+                 Quantity  total Length(ft.)
+apn power cable         1                 23
+4 strand smf            1                 15
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-203  
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+       Quantity  total length(ft.)
+1inch         4                363
+              Quantity  total Length(ft.)
+12 awg               6                399
+4 strand smf         2                230
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-204 
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+       Quantity  total length(ft.)
+1inch         1                 35
+        Quantity  total Length(ft.)
+12 awg         6                159
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-205 
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+       Quantity  total length(ft.)
+1inch         1                 23
+                         Quantity  total Length(ft.)
+fiber patch cord                2                 13
+cable tray                      1                  3
+duplex fiber patch cord         1                 23
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-302 
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+       Quantity  total length(ft.)
+1inch         7                227
+                    Quantity  total Length(ft.)
+4 strand smf               4                182
+12 power conductor        18                666
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-303 
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+          Quantity  total length(ft.)
+1inch            2                164
+0.75inch         2                325
+              Quantity  total Length(ft.)
+4 strand smf         2                164
+12 awg               6                975
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-304 
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+       Quantity  total length(ft.)
+1inch         4                 82
+                       Quantity  total Length(ft.)
+duplex smf patch cord         9                184
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-402 
+FLATBUSH AVE STATION
+######################
+
+       Quantity  total length(ft.)
+1inch         1                 35
+              Quantity  total Length(ft.)
+12 conductor         3                279
+4 strand smf         1                 35
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-502 
+CHURCH AVE STATION
+######################
+
+       Quantity  total length(ft.)
+1inch         3                113
+              Quantity  total Length(ft.)
+4 strand smf         2                 98
+12 awg               6                264
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-602  
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+       Quantity  total length(ft.)
+1inch         1                174
+              Quantity  total Length(ft.)
+power cable          1                175
+4 strand smf         1                174
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-603 
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         1                 36
+              Quantity  total Length(ft.)
+12 conductor         3                108
+
+
+######################
+Cable/Conduit Breakdown shown below for FOC-604 
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         1                215
+1inch            1                 22
+              Quantity  total Length(ft.)
+12 conductor         3                645
+4 strand smf         1                 22

@@ -1,0 +1,150 @@
+#######################------------------------#################
+ALL COMMUNICATIONS DRAWINGS OUTPUT:
+#######################------------------------#################
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-103 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         1                 15
+1.5inch          1                 36
+              Quantity  total Length(ft.)
+tx #19 awg           1                 15
+quad #19 awg         2                 72
+co-ax                3                108
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-108 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch        10                140
+2inch           23                 35
+1inch           15                120
+1.5inch          1                 30
+        Quantity  total Length(ft.)
+cat6         172               2030
+16 awg         4                 30
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-109 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         2                 35
+      Quantity  total Length(ft.)
+cat6         4                 65
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-110 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            1                 20
+2inch            1                170
+0.75inch         2                 39
+      Quantity  total Length(ft.)
+cat6        21               2516
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-111 
+207TH STREET STATION
+######################
+
+         Quantity  total length(ft.)
+1.5inch         4                470
+1inch           1                 65
+           Quantity  total Length(ft.)
+25 pr             4                470
+12 pr #22         1                 65
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-113 
+207TH STREET STATION
+######################
+
+       Quantity  total length(ft.)
+1inch         3                271
+        Quantity  total Length(ft.)
+12 awg         9                813
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-115  
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            9                100
+0.75inch         4                 88
+1.5inch          3                 24
+2inch            6                  9
+        Quantity  total Length(ft.)
+10 awg        24                294
+cat6           5                 93
+4 awg          3                 72
+2 awg          1                 60
+8 awg          3                168
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-116  
+207TH STREET STATION
+######################
+
+         Quantity  total length(ft.)
+1inch           2                 75
+1.5inch         3                 54
+        Quantity  total Length(ft.)
+12 awg         6                186
+4 awg          1                 27
+25 pr          2                 27
+12 pr          1                 28
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-133  
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         9                106
+1inch            6                 67
+1.5inch          1                 19
+2.5inch          1                 23
+             Quantity  total Length(ft.)
+cat6               20                313
+1pr #18 awg         2                 24
+25 pr               1                 19
+12 awg              3                105
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-134  
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            6                 54
+0.75inch         5                 66
+1.5inch          1                 20
+            Quantity  total Length(ft.)
+1pr 18 awg         2                 30
+cat6              12                177
+25 pr              1                 20
+12 awg             3                 69
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-203  

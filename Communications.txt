@@ -1,0 +1,745 @@
+#######################------------------------#################
+ALL COMMUNICATIONS DRAWINGS OUTPUT:
+#######################------------------------#################
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-103 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         1                 15
+1.5inch          1                 36
+              Quantity  total Length(ft.)
+tx #19 awg           1                 15
+quad #19 awg         2                 72
+co-ax                3                108
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-108 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch        10                195
+2inch           23                390
+1inch           15                345
+1.5inch          1                 30
+        Quantity  total Length(ft.)
+cat6         172               2030
+16 awg         4                 30
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-109 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         2                 35
+      Quantity  total Length(ft.)
+cat6         4                 65
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-110 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            1                 20
+2inch            1                 70
+0.75inch         2                 39
+      Quantity  total Length(ft.)
+cat6        21               1116
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-111 
+207TH STREET STATION
+######################
+
+         Quantity  total length(ft.)
+1.5inch         4                470
+1inch           1                 65
+           Quantity  total Length(ft.)
+25 pr             4                470
+12 pr #22         1                 65
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-113 
+207TH STREET STATION
+######################
+
+       Quantity  total length(ft.)
+1inch         3                271
+        Quantity  total Length(ft.)
+12 awg         9                813
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-115  
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            9                300
+0.75inch         4                 88
+1.5inch          3                 72
+2inch            6                 54
+        Quantity  total Length(ft.)
+10 awg        24                294
+cat6           5                 93
+4 awg          3                 72
+2 awg          1                 60
+8 awg          3                168
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-116  
+207TH STREET STATION
+######################
+
+         Quantity  total length(ft.)
+1inch           2                 75
+1.5inch         3                 54
+        Quantity  total Length(ft.)
+12 awg         6                186
+4 awg          1                 27
+25 pr          2                 27
+12 pr          1                 28
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-133  
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         9                106
+1inch            6                149
+1.5inch          1                 19
+2.5inch          1                 23
+             Quantity  total Length(ft.)
+cat6               20                313
+1pr #18 awg         2                 24
+25 pr               1                 19
+12 awg              3                105
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-134  
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            6                115
+0.75inch         5                 66
+1.5inch          1                 20
+            Quantity  total Length(ft.)
+1pr 18 awg         2                 30
+cat6              12                177
+25 pr              1                 20
+12 awg             3                 69
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-203  
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+          Quantity  total length(ft.)
+2inch            1                 24
+2.5inch          1                 51
+1.5inch          6                306
+1inch            1                 28
+0.75inch         6                174
+        Quantity  total Length(ft.)
+cat6          22                574
+25 pr          2                102
+10 awg         6                306
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-204 
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+         Quantity  total length(ft.)
+1inch          18                984
+1.5inch         8                256
+2inch          12                168
+2.5inch         2                 28
+        Quantity  total Length(ft.)
+10 awg        12                624
+25 pr          4                164
+cat6          24                648
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-205  
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+          Quantity  total length(ft.)
+0.75inch         2                 81
+      Quantity  total Length(ft.)
+cat6         4                162
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-207 
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+         Quantity  total length(ft.)
+2.5inch         2                 38
+1.5inch         6                204
+        Quantity  total Length(ft.)
+25 pr          2                 38
+10 awg         6                204
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-208 
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+          Quantity  total length(ft.)
+0.75inch        11                135
+1inch           10                 50
+1.5inch          1                  8
+2.5inch          1                 27
+            Quantity  total Length(ft.)
+cat6              13                 97
+1pr 18 awg         1                 22
+10 awg             3                 15
+25pr cable         1                  8
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-209 
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+          Quantity  total length(ft.)
+1.5inch          1                 13
+1inch            7                 82
+0.75inch         5                 57
+2.5inch          1                 30
+            Quantity  total Length(ft.)
+25pr cable         1                 13
+10 awg             3                 39
+cat6               8                 95
+1pr 18 awg         2                 20
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-304 
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+          Quantity  total length(ft.)
+0.75inch         7                244
+1inch           14               1072
+        Quantity  total Length(ft.)
+cat6          19                652
+10 awg         6                720
+16 awg         2                100
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-305 
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+          Quantity  total length(ft.)
+1inch           32               1066
+2.5inch          2                220
+0.75inch         5                233
+1.5inch         10                194
+              Quantity  total Length(ft.)
+10 awg              18                594
+25pr cable           2                220
+cat6                25                467
+1pr 18 awg           2                262
+25pr #22 awg         1                109
+25pr                 1                 61
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-306  
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+          Quantity  total length(ft.)
+1inch           13                209
+0.75inch         6                 49
+1.5inch          1                  3
+2.5inch          1                113
+            Quantity  total Length(ft.)
+10 awg             3                 63
+cat6              13                187
+25pr               1                  3
+1pr 18 awg         4                 20
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-307  
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+          Quantity  total length(ft.)
+0.75inch         5                 63
+1inch           11                102
+2.5inch          1                 33
+1.5inch          1                  5
+             Quantity  total Length(ft.)
+cat6               12                109
+1pr 18 awg          2                 48
+10 awg              3                 18
+25pr 22 awg         1                  5
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-308  
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+          Quantity  total length(ft.)
+0.75inch         4                 76
+1inch           11                318
+            Quantity  total Length(ft.)
+cat6              11                238
+10 awg             3                102
+1pr 18 awg         2                 66
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-310  
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+         Quantity  total length(ft.)
+1inch          18                729
+2.5inch         4                200
+        Quantity  total Length(ft.)
+10 awg        18                729
+25pr           4                200
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-402  
+FLATBUSH AVE STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            2                154
+0.75inch         6                146
+1.5inch          1                 15
+        Quantity  total Length(ft.)
+cat6          22                547
+16 awg         2                154
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-403  
+FLATBUSH AVE STATION
+######################
+
+         Quantity  total length(ft.)
+1.5inch         3                250
+1inch           3                250
+        Quantity  total Length(ft.)
+25pr           3                250
+10 awg         9                750
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-405 
+FLATBUSH AVE STATION
+######################
+
+          Quantity  total length(ft.)
+1.5inch          2                 36
+1inch            4                 77
+0.75inch         1                 18
+        Quantity  total Length(ft.)
+25pr           4                 84
+12 awg        12                174
+10 awg         6                144
+cat6           3                 66
+18 awg         2                 36
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-408 
+FLATBUSH AVE STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            3                 39
+2.5inch          1                 31
+0.75inch         5                 80
+1.5inch          9                 21
+            Quantity  total Length(ft.)
+10 awg             3                 48
+cat6              15                207
+1pr 18 awg         2                 22
+25pr               1                 13
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-502 
+CHURCH AVE STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         7                277
+1.5inch          2                170
+1inch           17               1064
+        Quantity  total Length(ft.)
+18 awg        10                640
+cat6          30                879
+25pr           2                170
+#10           12                894
+16 awg         2                 44
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-503 
+CHURCH AVE STATION
+######################
+
+          Quantity  total length(ft.)
+1.5inch          1                 15
+0.75inch         4                 70
+1inch           12                246
+2.5inch          1                105
+        Quantity  total Length(ft.)
+25pr           1                 15
+cat6          12                238
+18 awg         2                 28
+10 awg         3                 60
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-506 
+CHURCH AVE STATION
+######################
+
+          Quantity  total length(ft.)
+1inch           28               2425
+1.5inch          1                 23
+0.5inch          1                205
+0.75inch         2                223
+             Quantity  total Length(ft.)
+#10                18                375
+25pr                1                 23
+10 awg              9               1845
+22 awg              1                205
+1pr #18 awg         8               1640
+18 awg              3                615
+cat6                3                 54
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-507 
+CHURCH AVE STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         5                 79
+1inch           14                136
+                  Quantity  total Length(ft.)
+18 awg                   4                 82
+18 awg shielded         24                744
+1pr 18 awg               3                 93
+quad                     2                 21
+conductor 22 awg        12                 60
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-603  
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         3                 93
+1inch           11                991
+1.5inch          1                 14
+              Quantity  total Length(ft.)
+cat6                17               1316
+16 awg               2                300
+25pr #22 awg         2                119
+10 awg               6                426
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-604 
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            4                 60
+0.75inch         2                 83
+1.5inch          1                 10
+              Quantity  total Length(ft.)
+cat6                 4                143
+10 awg               3                 30
+25pr #22 awg         1                 10
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-605 
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+          Quantity  total length(ft.)
+1.5inch          2                 85
+1inch           17               1384
+2.5inch          2                430
+0.75inch         2                115
+              Quantity  total Length(ft.)
+25pr #22 awg         4                515
+10 awg              12               1065
+cat6                14                815
+1pr #18 awg          2                160
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-606 
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+          Quantity  total length(ft.)
+1.5inch          1                 35
+1inch            6                170
+0.75inch         5                100
+              Quantity  total Length(ft.)
+25pr #22 awg         1                 35
+cat6                13                350
+10 awg               6                180
+1pr #18 awg          2                 50
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-607 
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         7                114
+1inch            9                141
+1.5inch          1                 15
+2.5inch          1                 15
+              Quantity  total Length(ft.)
+cat6                15                260
+1pr #18 awg          4                 64
+10 awg               3                 45
+25pr #22 awg         1                 15
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-608 
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+         Quantity  total length(ft.)
+1.5inch         1                 15
+2.5inch         4                 80
+1inch          13                380
+              Quantity  total Length(ft.)
+25pr #22 awg         4                 80
+10 awg              15                420
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-609 
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            6                120
+1.5inch          3                 75
+0.75inch         1                 25
+        Quantity  total Length(ft.)
+10 awg         3                 75
+4 awg          3                 75
+cat6           1                 25
+8 awg          3                 45
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-702 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            8                540
+1.5inch          2                150
+0.75inch         4                153
+              Quantity  total Length(ft.)
+10 awg               6                450
+25pr #22 awg         2                150
+cat6                 6                208
+16 awg               2                 90
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-703 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+         Quantity  total length(ft.)
+0.5inch         1                475
+1inch           1                475
+        Quantity  total Length(ft.)
+25pr           1                475
+10 awg         3               1425
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-704 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         2                 80
+1inch            1                 10
+1.5inch          1                 10
+        Quantity  total Length(ft.)
+cat6           4                160
+10 awg         3                 30
+25pr           1                 10
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-705 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+          Quantity  total length(ft.)
+1inch            2                 94
+0.75inch         2                 55
+1.5inch          2                135
+        Quantity  total Length(ft.)
+cat6          16               1326
+10 awg         3                 60
+25pr           1                 20
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-707 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         7                118
+1.5inch          2                 41
+1inch            4                 70
+2.5inch          1                 25
+            Quantity  total Length(ft.)
+cat6              18                286
+25pr               1                 26
+10 awg             3                 75
+1pr 18 awg         2                 30
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-708 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+         Quantity  total length(ft.)
+1.5inch         2                 97
+1inch           6                300
+             Quantity  total Length(ft.)
+25pr 22 awg         3                114
+10 awg              6                300
+
+
+######################
+Cable/Conduit Breakdown shown below for TE-710 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+       Quantity  total length(ft.)
+1inch         3                195
+       Quantity  total Length(ft.)
+8 awg         3                195
+
+
+######################
+Cable/Conduit Breakdown shown below for TF-101 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         9                138
+                                   Quantity  total Length(ft.)
+1pr #16 awg twisted shielded fplp        16                244
+1pr #14 awg                              10                168
+
+
+######################
+Cable/Conduit Breakdown shown below for TF-102 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         9                146
+                                   Quantity  total Length(ft.)
+1pr #16 awg twisted shielded fplp        11                188
+1pr #14 awg                               1                 20
+
+
+######################
+Cable/Conduit Breakdown shown below for TF-103 
+207TH STREET STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         7                345
+                                   Quantity  total Length(ft.)
+1pr #16 awg twisted shielded fplp        12                445
+1pr #14 awg                               6                320
+
+
+######################
+Cable/Conduit Breakdown shown below for TF-401 
+FLATBUSH AVE STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch        10                177
+                                   Quantity  total Length(ft.)
+1pr #16 awg twisted shielded fplp        15                262
+1pr #14 awg                               6                117
+
+
+######################
+Cable/Conduit Breakdown shown below for TF-702 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         2                 35
+                                   Quantity  total Length(ft.)
+1pr #16 awg twisted shielded fplp         3                 60
+1pr #14 awg                               1                 25
+
+
+######################
+Cable/Conduit Breakdown shown below for TF-703 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+          Quantity  total length(ft.)
+0.75inch         3                 40
+                                   Quantity  total Length(ft.)
+1pr #16 awg twisted shielded fplp        16                200
+1pr #14 awg                               2                 25
