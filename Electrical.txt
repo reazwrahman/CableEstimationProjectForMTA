@@ -1,0 +1,101 @@
+#######################------------------------#################
+ALL ELECTRICAL DRAWINGS OUTPUT:
+#######################------------------------#################
+
+
+######################
+Cable/Conduit Breakdown shown below for L-106 
+207TH STREET STATION
+######################
+
+       Quantity  total length(ft.)
+3inch         8               1054
+        Quantity  total Length(ft.)
+250MCM        32               4216
+
+
+######################
+Cable/Conduit Breakdown shown below for L-206 
+34TH HERALD SQUARE STATION 6TH AVE (IND)
+######################
+
+       Quantity  total length(ft.)
+2inch         2                350
+      Quantity  total Length(ft.)
+2/0          8               1400
+6GND         2                350
+
+
+######################
+Cable/Conduit Breakdown shown below for L-306 
+34TH HERALD SQUARE STATION BROADWAY (BMT)
+######################
+
+       Quantity  total length(ft.)
+2inch         5               1665
+     Quantity  total Length(ft.)
+2/0        20               6660
+
+
+######################
+Cable/Conduit Breakdown shown below for L-406 
+FLATBUSH AVE STATION
+######################
+
+         Quantity  total length(ft.)
+3inch           1                200
+2.5inch         3                150
+1.5inch         3                150
+           Quantity  total Length(ft.)
+250KCMILI         4                800
+4GND              1                200
+2/0              12                600
+6GND              3                150
+2                12                600
+8GND              3                150
+
+
+######################
+Cable/Conduit Breakdown shown below for L-606 
+JAMAICA CENTER PARSONS/ ARCHER STATION
+######################
+
+         Quantity  total length(ft.)
+2.5inch         5               1400
+1.5inch         5               1385
+4inch           1                180
+           Quantity  total Length(ft.)
+2/0               8               1760
+6G                8               1760
+4                 4               1280
+8G                8               1700
+500KCMILI         4                720
+2/0GND            1                180
+2                 4                420
+
+
+######################
+Cable/Conduit Breakdown shown below for L-506 
+CHURCH AVE STATION
+######################
+
+         Quantity  total length(ft.)
+1.5inch         2                 80
+3inch           1                 35
+        Quantity  total Length(ft.)
+2/0            6                240
+6GND           1                 30
+250MCM         4                140
+2GND           1                 35
+
+
+######################
+Cable/Conduit Breakdown shown below for L-706 
+SUTPHIN BOULEVARD/ ARCHER AVE STATION
+######################
+
+         Quantity  total length(ft.)
+2.5inch         2                210
+     Quantity  total Length(ft.)
+2/0         8                840
+6G          2                210
